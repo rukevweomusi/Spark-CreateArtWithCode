@@ -1,4 +1,4 @@
-#Starter Code
+//Starter Code
 
 function draw() {
   background(220);
