@@ -4,8 +4,7 @@ function draw() {
   background(220);
   line(100, 200, 20, 75);
 describe(
-  'a 100 pixels long line running from mid-top to bottom-right of canvas'
-  'Syntax: line(x1, y1, x2, y2)'
+  'a 100 pixels long line running from mid-top to bottom-right of canvas - Syntax: line(x1, y1, x2, y2)'
 );
   rect(10,20,25,20)
   describe(
